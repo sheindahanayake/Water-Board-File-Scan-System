@@ -1,5 +1,3 @@
-Here’s a `README.md` file template for your project, which is a **Water Board application** built with **React** for the frontend and **Laravel** for the backend. This project scans consumer files, displays them, and includes options for **add, delete, and view** functionality on the SQL database.
-
 ---
 
 # Water Board Consumer Management System
